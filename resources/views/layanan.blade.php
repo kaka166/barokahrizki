@@ -24,7 +24,6 @@ http://tympanus.net/codrops/2013/06/18/caption-hover-effects/
 	<link rel="stylesheet" href="{{asset('master/css/animate.min.css')}}">
 	<link rel="stylesheet" href="{{asset('master/css/font-awesome.min.css')}}">
   	<link rel="stylesheet" href="{{asset('master/css/component.css')}}">
-	
     <link rel="stylesheet" href="{{asset('master/css/owl.theme.css')}}">
 	<link rel="stylesheet" href="{{asset('master/css/owl.carousel.css')}}">
 	<link rel="stylesheet" href="{{asset('master/css/vegas.min.css')}}">
@@ -90,12 +89,129 @@ http://tympanus.net/codrops/2013/06/18/caption-hover-effects/
         <div class="section-title">
           <h1>Daftar Layanan</h1>
         </div>
+        <div class="container border">
+  <div class="row">
+    <div class="col-lg-4 col-md-6 mb-4">
+      <div class="card h-100">
+        <img class="card-img-top" src="gambar_barang1.jpg" alt="Gambar Barang 1">
+        <div class="card-body">
+          <h5 class="card-title">Tambal Ban</h5>
+          <p class="card-text">Rp100.000</p>
+        </div>
       </div>
+    </div>
+    <div class="col-lg-4 col-md-6 mb-4">
+      <div class="card h-100">
+        <img class="card-img-top" src="gambar_barang2.jpg" alt="Gambar Barang 2">
+        <div class="card-body">
+          <h5 class="card-title">Ganti Ban</h5>
+          <p class="card-text">Rp150.000</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-4 col-md-6 mb-4">
+      <div class="card h-100">
+        <img class="card-img-top" src="gambar_barang3.jpg" alt="Gambar Barang 3">
+        <div class="card-body">
+          <h5 class="card-title">Ganti Oli</h5>
+          <p class="card-text">Rp200.000</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-4 col-md-6 mb-4">
+      <div class="card h-100">
+        <img class="card-img-top" src="gambar_barang4.jpg" alt="Gambar Barang 4">
+        <div class="card-body">
+          <h5 class="card-title">Pasang Lampu</h5>
+          <p class="card-text">Rp75.000</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-4 col-md-6 mb-4">
+      <div class="card h-100">
+        <img class="card-img-top" src="gambar_barang5.jpg" alt="Gambar Barang 5">
+        <div class="card-body">
+          <h5 class="card-title">Barang 5</h5>
+          <p class="card-text">Rp120.000</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-4 col-md-6 mb-4">
+      <div class="card h-100">
+        <img class="card-img-top" src="gambar_barang5.jpg" alt="Gambar Barang 5">
+        <div class="card-body">
+          <h5 class="card-title">Barang 5</h5>
+          <p class="card-text">Rp120.000</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
 
       <div class="col-md-offset-2 col-md-12 col-sm-12 wow fadeInUp" data-wow-delay="0.3s">
         <div class="section-title">
           <h1>Daftar Sparepart</h1>
         </div>
+        <div class="container border">
+  <div class="row">
+    <div class="col-lg-4 col-md-6 mb-4">
+      <div class="card h-100">
+        <img class="card-img-top" src="gambar_barang1.jpg" alt="Gambar Barang 1">
+        <div class="card-body">
+          <h5 class="card-title">Barang 1</h5>
+          <p class="card-text">Rp100.000</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-4 col-md-6 mb-4">
+      <div class="card h-100">
+        <img class="card-img-top" src="gambar_barang2.jpg" alt="Gambar Barang 2">
+        <div class="card-body">
+          <h5 class="card-title">Barang 2</h5>
+          <p class="card-text">Rp150.000</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-4 col-md-6 mb-4">
+      <div class="card h-100">
+        <img class="card-img-top" src="gambar_barang3.jpg" alt="Gambar Barang 3">
+        <div class="card-body">
+          <h5 class="card-title">Barang 3</h5>
+          <p class="card-text">Rp200.000</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-4 col-md-6 mb-4">
+      <div class="card h-100">
+        <img class="card-img-top" src="gambar_barang4.jpg" alt="Gambar Barang 4">
+        <div class="card-body">
+          <h5 class="card-title">Barang 4</h5>
+          <p class="card-text">Rp75.000</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-4 col-md-6 mb-4">
+      <div class="card h-100">
+        <img class="card-img-top" src="gambar_barang5.jpg" alt="Gambar Barang 5">
+        <div class="card-body">
+          <h5 class="card-title">Barang 5</h5>
+          <p class="card-text">Rp120.000</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-4 col-md-6 mb-4">
+      <div class="card h-100">
+        <img class="card-img-top" src="gambar_barang5.jpg" alt="Gambar Barang 5">
+        <div class="card-body">
+          <h5 class="card-title">Barang 5</h5>
+          <p class="card-text">Rp120.000</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
       </div>
     </div>
   </div>
@@ -125,6 +241,7 @@ http://tympanus.net/codrops/2013/06/18/caption-hover-effects/
 <script src="{{asset('master/js/wow.min.js')}}"></script>
 <script src="{{asset('master/js/custom.js')}}"></script>
 <script src="{{asset('master/js/waypoints.min.js')}}"></script>
+
 
 </body>
 </html>
