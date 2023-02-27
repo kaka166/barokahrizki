@@ -82,139 +82,104 @@ http://tympanus.net/codrops/2013/06/18/caption-hover-effects/
 <!-- Gallery section -->
 
 <section id="about">
-  <div class="container">
+<div class="container">
     <div class="row">
 
-      <div class="col-md-offset-2 col-md-12 col-sm-12 wow fadeInUp" data-wow-delay="0.3s">
+      <div class="col-md-offset-2 col-md-8 col-sm-12 wow fadeInUp" data-wow-delay="0.3s">
         <div class="section-title">
           <h1>Daftar Layanan</h1>
         </div>
-        <div class="container border">
-  <div class="row">
-    <div class="col-lg-4 col-md-6 mb-4">
-      <div class="card h-100">
-        <img class="card-img-top" src="gambar_barang1.jpg" alt="Gambar Barang 1">
-        <div class="card-body">
-          <h5 class="card-title">Tambal Ban</h5>
-          <p class="card-text">Rp100.000</p>
-        </div>
       </div>
-    </div>
-    <div class="col-lg-4 col-md-6 mb-4">
-      <div class="card h-100">
-        <img class="card-img-top" src="gambar_barang2.jpg" alt="Gambar Barang 2">
-        <div class="card-body">
-          <h5 class="card-title">Ganti Ban</h5>
-          <p class="card-text">Rp150.000</p>
-        </div>
-      </div>
-    </div>
-    <div class="col-lg-4 col-md-6 mb-4">
-      <div class="card h-100">
-        <img class="card-img-top" src="gambar_barang3.jpg" alt="Gambar Barang 3">
-        <div class="card-body">
-          <h5 class="card-title">Ganti Oli</h5>
-          <p class="card-text">Rp200.000</p>
-        </div>
-      </div>
-    </div>
-    <div class="col-lg-4 col-md-6 mb-4">
-      <div class="card h-100">
-        <img class="card-img-top" src="gambar_barang4.jpg" alt="Gambar Barang 4">
-        <div class="card-body">
-          <h5 class="card-title">Pasang Lampu</h5>
-          <p class="card-text">Rp75.000</p>
-        </div>
-      </div>
-    </div>
-    <div class="col-lg-4 col-md-6 mb-4">
-      <div class="card h-100">
-        <img class="card-img-top" src="gambar_barang5.jpg" alt="Gambar Barang 5">
-        <div class="card-body">
-          <h5 class="card-title">Barang 5</h5>
-          <p class="card-text">Rp120.000</p>
-        </div>
-      </div>
-    </div>
-    <div class="col-lg-4 col-md-6 mb-4">
-      <div class="card h-100">
-        <img class="card-img-top" src="gambar_barang5.jpg" alt="Gambar Barang 5">
-        <div class="card-body">
-          <h5 class="card-title">Barang 5</h5>
-          <p class="card-text">Rp120.000</p>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-</div>
 
-      <div class="col-md-offset-2 col-md-12 col-sm-12 wow fadeInUp" data-wow-delay="0.3s">
+      <ul class="grid cs-style-4">
+        <li class="col-md-5 col-sm-5">
+          <figure>
+            <div class="card-body">
+              <h5 class="card-title">Tambal Ban</h5>
+              <p class="card-text">Rp120.000</p>
+            </div>
+          </figure>
+        </li>
+
+        <li class="col-md-5 col-sm-5">
+          <figure>
+            <div class="card-body">
+              <h5 class="card-title">Ganti Ban</h5>
+              <p class="card-text">Rp120.000</p>
+            </div>
+          </figure>
+        </li>
+
+        <li class="col-md-5 col-sm-5">
+          <figure>
+            <div class="card-body">
+              <h5 class="card-title">Ganti Oli</h5>
+              <p class="card-text">Rp120.000</p>
+            </div>
+          </figure>
+        </li>
+
+        <li class="col-md-5 col-sm-5">
+          <figure>
+            <div class="card-body">
+              <h5 class="card-title">Pasang Lampu</h5>
+              <p class="card-text">Rp120.000</p>
+            </div>
+          </figure>
+        </li>
+      </ul>
+  </div>
+
+  <div class="col-md-offset-2 col-md-8 col-sm-12 wow fadeInUp" data-wow-delay="0.3s">
         <div class="section-title">
-          <h1>Daftar Sparepart</h1>
-        </div>
-        <div class="container border">
-  <div class="row">
-    <div class="col-lg-4 col-md-6 mb-4">
-      <div class="card h-100">
-        <img class="card-img-top" src="gambar_barang1.jpg" alt="Gambar Barang 1">
-        <div class="card-body">
-          <h5 class="card-title">Barang 1</h5>
-          <p class="card-text">Rp100.000</p>
+          <h1>Daftar Spare Part</h1>
         </div>
       </div>
-    </div>
-    <div class="col-lg-4 col-md-6 mb-4">
-      <div class="card h-100">
-        <img class="card-img-top" src="gambar_barang2.jpg" alt="Gambar Barang 2">
-        <div class="card-body">
-          <h5 class="card-title">Barang 2</h5>
-          <p class="card-text">Rp150.000</p>
-        </div>
-      </div>
-    </div>
-    <div class="col-lg-4 col-md-6 mb-4">
-      <div class="card h-100">
-        <img class="card-img-top" src="gambar_barang3.jpg" alt="Gambar Barang 3">
-        <div class="card-body">
-          <h5 class="card-title">Barang 3</h5>
-          <p class="card-text">Rp200.000</p>
-        </div>
-      </div>
-    </div>
-    <div class="col-lg-4 col-md-6 mb-4">
-      <div class="card h-100">
-        <img class="card-img-top" src="gambar_barang4.jpg" alt="Gambar Barang 4">
-        <div class="card-body">
-          <h5 class="card-title">Barang 4</h5>
-          <p class="card-text">Rp75.000</p>
-        </div>
-      </div>
-    </div>
-    <div class="col-lg-4 col-md-6 mb-4">
-      <div class="card h-100">
-        <img class="card-img-top" src="gambar_barang5.jpg" alt="Gambar Barang 5">
-        <div class="card-body">
-          <h5 class="card-title">Barang 5</h5>
-          <p class="card-text">Rp120.000</p>
-        </div>
-      </div>
-    </div>
-    <div class="col-lg-4 col-md-6 mb-4">
-      <div class="card h-100">
-        <img class="card-img-top" src="gambar_barang5.jpg" alt="Gambar Barang 5">
-        <div class="card-body">
-          <h5 class="card-title">Barang 5</h5>
-          <p class="card-text">Rp120.000</p>
-        </div>
-      </div>
-    </div>
+
+      <ul class="grid cs-style-4">
+        <li class="col-md-5 col-sm-5">
+          <figure>
+            <div><img src="{{asset('master/images/barang1.jpeg')}}" alt="image 1"></div>
+            <div class="card-body">
+              <h5 class="card-title">	HEADLIGHT UNIT</h5>
+              <p class="card-text">Rp125.000</p>
+            </div>
+          </figure>
+        </li>
+
+        <li class="col-md-5 col-sm-5">
+          <figure>
+            <div><img src="{{asset('master/images/barang2.jpeg')}}" alt="image 2"></div>
+            <div class="card-body">
+              <h5 class="card-title">Key Set</h5>
+              <p class="card-text">Rp120.000</p>
+            </div>
+          </figure>
+        </li>
+
+        <li class="col-md-5 col-sm-5">
+          <figure>
+            <div><img src="{{asset('master/images/barang3.jpeg')}}" alt="image 3"></div>
+            <div class="card-body">
+              <h5 class="card-title">Protector, Muffler</h5>
+              <p class="card-text">Rp120.000</p>
+            </div>
+          </figure>
+        </li>
+
+        <li class="col-md-5 col-sm-5">
+          <figure>
+            <div><img src="{{asset('master/images/barang4.jpeg')}}" alt="image 4"></div>
+            <div class="card-body">
+              <h5 class="card-title">Fuse</h5>
+              <p class="card-text">Rp120.000</p>
+            </div>
+          </figure>
+        </li>
+      </ul>
+  </div>
   </div>
 </div>
-
-      </div>
-    </div>
-  </div>
 </section>
 
 

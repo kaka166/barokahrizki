@@ -78,7 +78,7 @@ http://tympanus.net/codrops/2013/06/18/caption-hover-effects/
     <div class="row">
 
       <div class="col-md-offset-1 col-md-10 col-sm-12 wow fadeInUp" data-wow-delay="0.3s">
-        <h1 class="wow fadeInUp" data-wow-delay="0.6s"></h1>
+        <h1 class="wow fadeInUp" data-wow-delay="0.6s">Barokah Rizki Motor merupakan sebuah bengkel yang didirikan sejak 2021, Bengkel ini menyediakan berbagai layanan dan spare-part yang dibutuhkan</h1>
         <p class="wow fadeInUp" data-wow-delay="0.9s"></p>
         <a href="#about" data-wow-delay="1.2s"></a>
       </div>
@@ -186,28 +186,6 @@ http://tympanus.net/codrops/2013/06/18/caption-hover-effects/
 
 <!-- Footer section -->
 
-<footer>
-	<div class="container">
-    
-		<div class="row">
-
-			<div class="col-md-12 col-sm-12">
-            
-                <ul class="social-icon"> 
-                    <li><a href="#" class="fa fa-facebook wow fadeInUp" data-wow-delay="0.2s"></a></li>
-                    <li><a href="#" class="fa fa-twitter wow fadeInUp" data-wow-delay="0.4s"></a></li>
-                    <li><a href="#" class="fa fa-linkedin wow fadeInUp" data-wow-delay="0.6s"></a></li>
-                    <li><a href="#" class="fa fa-instagram wow fadeInUp" data-wow-delay="0.8s"></a></li>
-                    <li><a href="#" class="fa fa-google-plus wow fadeInUp" data-wow-delay="1.0s"></a></li>
-                </ul>
-
-                
-			</div>
-			
-		</div>
-        
-	</div>
-</footer>
 
 <!-- Back top -->
 <a href="#" class="go-top"><i class="fa fa-angle-up"></i></a>
